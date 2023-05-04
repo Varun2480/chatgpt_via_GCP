@@ -1,0 +1,4 @@
+openai==0.27.4
+uvicorn==0.19.0
+fastapi==0.86.00
+functions-framework
